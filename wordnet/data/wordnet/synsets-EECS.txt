@@ -1,0 +1,42 @@
+0,CS61A,dummy
+1,CS61B bee,dummy
+2,CS61C,dummy
+3,CS70,dummy
+4,CS152,dummy
+5,CS160,dummy
+6,CS161,dummy
+7,CS162 bean,dummy
+8,CS164,dummy
+9,CS168,dummy
+10,CS169,dummy
+11,CS170,dummy
+12,CS172,dummy
+13,CS174,dummy
+14,CS176,dummy
+15,CS184,dummy
+16,CS186,dummy
+17,CS188,dummy
+18,CS189,dummy
+19,CS191,dummy
+20,EECS16A,dummy
+21,EECS16B bee,dummy
+22,EE105,dummy
+23,EEC106A,dummy
+24,EEC106B,dummy
+25,EE113,dummy
+26,EE117,dummy
+27,EE120,dummy
+28,EE123,dummy
+29,EE126 bean,dummy
+30,EE130,dummy
+31,EE134,dummy
+32,EE137A,dummy
+33,EE137B,dummy
+34,EE140,dummy
+35,EE142,dummy
+36,EE143,dummy
+37,EE144,dummy
+38,EE145B,dummy
+39,EE147,dummy
+40,EE149,dummy
+41,EE192,dummy
